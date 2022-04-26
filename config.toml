@@ -1,13 +1,17 @@
-baseURL = "https://peterampazzo.github.io/project-website-template/"
-title = "Project Title"
-description = "This is a project description"
+baseURL = "https://github.com/freboch/CSS_project_website/"
+title = "Harry Potter and the Networks of Analysis"
+description = "We’ll do a deep dive into the realm of Harry Potter.
+We wish to examine the development in the seven books. 
+Use social networks to look at characters.
+Use text analysis tools to look at topics and themes
+"
 relativeURLs = true
 theme = "theme" 
 [params]
-    authors = ["Henrik Nielsen", "Inga Jensen", "Mikkel Andersen"]
+    authors = ["Anne-Sophie Høtbjerg Hansen", "Frederikke B. Christensen", "Kirstine Cort Graae"]
     notebook = "/explainer-notebook.html"
     data = "https://drive.google.com"
-    github = "https://github.com/peterampazzo/project-website-template"
+    github = "https://gitlab.gbar.dtu.dk/freboch/Social_Informatik_Projekt"
     [[params.nav]]
         label = "Data"
         link = "/data-description"
