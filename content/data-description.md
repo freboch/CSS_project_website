@@ -10,5 +10,5 @@ The books consist of 198 chapters and the plot summaries of these totals 57382 w
 
 The character overview contains information on 403 characters, but only 183 of these are actually mentioned in the plot summaries.
 
-<img src="/images/full_word_cloud.png" width="200" />
+<img src="/images/full_word_cloud.png" width="600" />
 
