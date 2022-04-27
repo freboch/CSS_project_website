@@ -4,8 +4,6 @@ layout: single
 next: data-description
 ---
 
-# Harry Potter and the Networks of Analysis
-
 This website is an exam project for the course 02467 Computational Social Science at the Technical University of Denmark (DTU) Spring 2022 Semester. 
 
 # Idea
