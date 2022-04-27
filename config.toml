@@ -1,6 +1,6 @@
 baseURL = "https://freboch.github.io/CSS_project_website"
 title = "Harry Potter and the Networks of Analysis"
-description = "We’ll do a deep dive into the realm of Harry Potter. We wish to examine the development in the seven books. Use social networks to look at characters.Use text analysis tools to look at topics and themes"
+description = "Harry Potter University Project"
 relativeURLs = true
 theme = "theme" 
 [params]
@@ -15,6 +15,9 @@ theme = "theme"
         label = "Network"
         link = "/network-analysis"
     [[params.nav]]
-        label = "Text"
-        link = "/text-analysis"
+        label = "Word Clouds"
+        link = "/word-clouds"
+    [[params.nav]]
+        label = "Sentiment Analysis"
+        link = "/sentiment-analysis"
 
