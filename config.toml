@@ -4,7 +4,7 @@ description = "We’ll do a deep dive into the realm of Harry Potter. We wish to
 relativeURLs = true
 theme = "theme" 
 [params]
-    authors = ["Anne-Sophie Høtbjerg Hansen", "Frederikke B. Christensen", "Kirstine Cort Graae"]
+    authors = ["Anne Sophie Høtbjerg Hansen", "Frederikke B. Christensen", "Kirstine Cort Graae"]
     notebook = "/explainer-notebook.html"
     data = "https://drive.google.com"
     github = "https://github.com/freboch/CSS_project_website"
