@@ -1,13 +1,16 @@
 baseURL = "https://freboch.github.io/CSS_project_website"
-title = "Harry Potter and the Networks of Analysis"
+title = "Home Page"
+label = 'Home Page'
 description = "Harry Potter University Project"
 relativeURLs = true
-theme = "theme" 
+theme = 'theme'
+
 [params]
     authors = ["Anne Sophie Høtbjerg Hansen", "Frederikke B. Christensen", "Kirstine Cort Graae"]
     notebook = "/explainer-notebook.html"
     data = "https://drive.google.com"
     github = "https://github.com/freboch/CSS_project_website"
+    logo = '/images/favicon.png'
     [[params.nav]]
         label = "Data"
         link = "/data-description"

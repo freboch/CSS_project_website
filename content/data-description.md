@@ -3,6 +3,29 @@ title: Data description
 prev: _index
 next: network-analysis
 ---
+<head>
+<style>
+h1 {text-align: left; font-size:25px,font-family: Verdana, sans-serif}
+</style>
+
+<style>
+t1 {text-align: left; font-size:15px,font-family: Verdana, sans-serif}
+</style>
+
+<style>
+.line {
+    padding-bottom: 20px;
+    border-bottom: 1px solid #9CA3AF; 
+}
+.line1 {
+    padding-bottom: 20px;
+    border-bottom: 3px solid #9CA3AF; 
+}
+</style>
+
+</head>
+
+<div class="line1"></div>
 
 The data for the project consists of chapter plot summaries of all the chapters in the 7 Harry Potter books. The plot summaries are from <http://harrypotter.fandom.com>. We also got a character overview from <http://hp-api.herokuapp.com>. 
 
@@ -10,7 +33,8 @@ The books consist of **198** chapters, and the plot summaries of these totals **
 
 The character overview contains information on **403** characters, but only **183** of these are actually mentioned in the plot summaries.
 
-# Getting the Data
+<h1>Getting the Data</h1>
+<div class="line"></div>
 
 The chapter summaries were scraped from  <https://harrypotter.fandom.com> using BeautifulSoup (see <https://www.crummy.com/software/BeautifulSoup/>). 
 
