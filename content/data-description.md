@@ -5,11 +5,10 @@ next: network-analysis
 ---
 <head>
 <style>
-h1 {text-align: left; font-size:25px,font-family: Verdana, sans-serif}
-</style>
-
 <style>
-t1 {text-align: left; font-size:15px,font-family: Verdana, sans-serif}
+h1 {text-align: left; font-size:25px,font-family: Verdana, sans-serif}
+h2 {text-align: left; font-size:20px,font-family: Verdana, sans-serif}
+h3 {text-align: left; font-size:15px,font-family: Verdana, sans-serif}
 </style>
 
 <style>

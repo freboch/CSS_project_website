@@ -7,10 +7,9 @@ next: data-description
 <head>
 <style>
 h1 {text-align: left; font-size:25px,font-family: Verdana, sans-serif}
-</style>
-
-<style>
-t1 {text-align: left; font-size:15px,font-family: Verdana, sans-serif}
+h2 {text-align: left; font-size:20px,font-family: Verdana, sans-serif}
+h3 {text-align: left; font-size:15px,font-family: Verdana, sans-serif}
+h4 {text-align: center}
 </style>
 
 <style>
@@ -37,17 +36,32 @@ t1 {text-align: left; font-size:15px,font-family: Verdana, sans-serif}
 <h1>Motivation</h1>
 <div class="line"></div>
 
+<h3>
 This website is an exam project for the course 02467 Computational 
 Social Science at the Technical University of Denmark (DTU) Spring 2022 Semester. 
-The project has been developed using tools, theory, and techniques taught in this course. <br/>
+The project has been developed using tools, theory, and techniques taught in this course.
 <br/>
-The methods used for the analysis presented on this website, are primarily focused on combining Natural Language Processing and Network Science.
-Both NLP and Network Science has been applied to examine developments in the dataset. 
 
-<h1>Idea</h1>
+All group members are hard-core Harry Potter fans. We therefore saw this as the perfect opportunity to put all of our Harry Potter fun facts to use. Our main dataset consists of Harry Potter book summaries at chapter-level. 
+Furthermore, we have used a dataset that contain character information to make it easy to identify characters in the summaries. 
+We chose our main dataset based on the fact that we wanted to look at the Harry Potter books, which are much more extensive compared to the movies, 
+but were not able to use the books directly due to copyrights. Fandom (previously known as Wikia) is a service that hosts wikis mainly on entertainment (i.e. books, movies, and tv shows). 
+Thus, it's basically the wikipedia for entertainment and top-quality. This is the reason why we webcapped summaries from there.
+
+Our mission is to do a deep dive into the realm of Harry Potter and examine the development in the seven books. 
+Firstly, use social networks to look at characters. We will have a look at which characters play the most essential roles, 
+which are connected, and what do they have in common if we partition them? Secondly, use text analysis tools to look at topics and themes. 
+We will have a look at what the most important topics are. Furthermore, we have a theory that the books are become more and more dark, sinister, and gloomy, 
+which we can hopefully detect via sentiment analysis. We hope that this will be fun for people who are as passionate about Harry Potter as us.
+</h3>
+
+<h1>Teaser</h1>
 <div class="line"></div>
+<br>
+    <video width="720" height="240" controls>
+      <source src="/Videos/VideoPresentation.mp4" type=video/mp4>
+    </video>
 
-The goal of this project is to explore the world of Harry Potter through the chapter plot summaries available at [*harrypotter.fandom.com*](https://harrypotter.fandom.com/wiki/Main_Page). We wish to examine the development in the seven books, specifically by using social networks to look at characters and using text analysis tools to look at topics and themes. 
 
 <h1>Findings</h1>
 <div class="line"></div>
@@ -58,5 +72,6 @@ The goal of this project is to explore the world of Harry Potter through the cha
 
 <div class="line"></div>
 
+<h3>
 We are 3 student studying Artificial Intelligence and Data at DTU. We love Harry Potter and decided this was a project we could go at with a decent amount of domain knowledge. We hope you enjoy our findings.
-
+</h3>
