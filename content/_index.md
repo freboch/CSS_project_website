@@ -58,15 +58,12 @@ which we can hopefully detect via sentiment analysis. We hope that this will be 
 <h1>Teaser</h1>
 <div class="line"></div>
 <br>
-    <video width="720" height="240" controls>
-      <source src="/Videos/VideoPresentation.mp4" type=video/mp4>
-    </video>
-
+<iframe width="720" height="350" src="https://www.youtube.com/embed/p-y_L1RaA-w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <h1>Findings</h1>
 <div class="line"></div>
 
-
+<br>
 
 <h1>The team</h1>
 

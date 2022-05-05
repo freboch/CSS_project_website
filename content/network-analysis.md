@@ -122,7 +122,7 @@ This can result in a confusing network, with inconsistent communities such as th
 
 <img src="/images/Book4UW.png" width="700" />
 <h3>
-For communities have been detected in this network. 
+Four communities have been detected in this network. 
 Harry is once again not in the same community as Ron and Hermione, which can seem strange. 
 However, Harry is in a cluster with many characters who are mostly named in connection to Harry Potter (Pink). 
 An example of this is Franc Bryce, who is the muggle man Harry sees dying in a dream in the beginning of the book. 
@@ -160,7 +160,7 @@ The pink community, which contains both Sirius Black and Cornelius Fudge as well
 Lord Voldemort is also mentioned multiple times alongside these characters, because he is responsible for their deaths and the general events the minister is informed about. 
 Therefore, the pink community is quite easily explained. The white community consists of characters mentioned when Harry and Dumbledore visit old memories of Tom Riddle. 
 Both Narcissa Malfoy and Bellatrix Lestrange are in this community as well, but the reason for this is not entirely obvious. However, since most of the community is consistent to the tendency, it is pretty easily explained. 
-The reason for the seperation of the last two communities is not all that clear, since both are a mix of teachers and students at Hogwarts as well as some other characters. 
+The reason for the separation of the last two communities is not all that clear, since both are a mix of teachers and students at Hogwarts as well as some other characters. 
 
 </h3>
 
@@ -172,6 +172,10 @@ The reason for the seperation of the last two communities is not all that clear,
 
 
 <h3>
+Five communities have been detected in this network, making it the most divided individual network. 
+Harry Potter is once again not in the same community as Ron and Hermione, but in a community with characters, who are mentioned primarily alongside Harry. 
+This community also includes the Dursley family and the two members of the Order of the Phoenix, with whom they go into hiding with. 
+The trends in the rest of the communities are not obvious enough to make any real conclusions about the nature of connections between the characters in the communities.
 </h3>
 
 <h2>General Conclusion</h2>
@@ -179,8 +183,11 @@ The reason for the seperation of the last two communities is not all that clear,
 <br>
 
 <h3>
+In many of the individual networks, it is possible to make conclusions about some of the displayed communities. 
+However, the division of many of the communities is not quite obvious. 
+The reason for vague nature of the communities could be explained , that the data presented only consists of plot summaries and not the entire chapters. 
+Therefore, it can be difficult to detect the communities because the information is simply not extensive enough.
 </h3>
-
 <h1>Character mention development</h1>
 <div class="line"></div>
 
