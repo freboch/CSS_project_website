@@ -188,24 +188,32 @@ However, the division of many of the communities is not quite obvious.
 The reason for vague nature of the communities could be explained , that the data presented only consists of plot summaries and not the entire chapters. 
 Therefore, it can be difficult to detect the communities because the information is simply not extensive enough.
 </h3>
+
 <h1>Character mention development</h1>
 <div class="line"></div>
 
 <h3>
+All characters mentioned throughout all seven books can be seen in the Network below. This Network also distinguish between characters who are mentioned frequently, by making the nodes bigger, if the node weight is high.
 </h3>
 
+<img src="/images/WG.png" width="700" />
 
 <h3>
+It is quite obvious, that characters such as Harry Potter, Ron Weasley, Hermione Granger, Albus dumbledore and Lord Voldemort are mentioned significantly more than other characters.
+This makes great sense, since many of the books revolve around these characters. 
+However, it will also be interesting to view the book as individual networks, to determine the most fundamental characters of each book.
 </h3>
+
 
 <h2>Harry Potter and the Philosopher's stone</h2>
 <div class="line"></div>
 <br>
 
-<img src="/images/Book1UW.png" width="700" />
+<img src="/images/WG1.png" width="700" />
 
 
 <h3>
+
 </h3>
 
 
@@ -213,7 +221,7 @@ Therefore, it can be difficult to detect the communities because the information
 <div class="line"></div>
 <br>
 
-<img src="/images/Book2UW.png" width="700" />
+<img src="/images/WG2.png" width="700" />
 
 
 <h3>
@@ -224,7 +232,7 @@ Therefore, it can be difficult to detect the communities because the information
 <div class="line"></div>
 <br>
 
-<img src="/images/Book3UW.png" width="700" />
+<img src="/images/WG3.png" width="700" />
 
 
 <h3>
@@ -234,7 +242,7 @@ Therefore, it can be difficult to detect the communities because the information
 <div class="line"></div>
 <br>
 
-<img src="/images/Book4UW.png" width="700" />
+<img src="/images/WG4.png" width="700" />
 
 
 <h3>
@@ -245,7 +253,7 @@ Therefore, it can be difficult to detect the communities because the information
 <div class="line"></div>
 <br>
 
-<img src="/images/Book5UW.png" width="700" />
+<img src="/images/WG5.png" width="700" />
 
 
 <h3>
@@ -256,7 +264,7 @@ Therefore, it can be difficult to detect the communities because the information
 <div class="line"></div>
 <br>
 
-<img src="/images/Book6UW.png" width="700" />
+<img src="/images/WG6.png" width="700" />
 
 
 <h3>
@@ -266,7 +274,15 @@ Therefore, it can be difficult to detect the communities because the information
 <div class="line"></div>
 <br>
 
-<img src="/images/Book7UW.png" width="700" />
+<img src="/images/WG7.png" width="700" />
 
 <h3>
+</h3>
+
+<h2>General Conclusion</h2>
+<div class="line"></div>
+<br>
+
+<h3>
+
 </h3>
