@@ -53,6 +53,9 @@ Firstly, use social networks to look at characters. We will have a look at which
 which are connected, and what do they have in common if we partition them? Secondly, use text analysis tools to look at topics and themes. 
 We will have a look at what the most important topics are. Furthermore, we have a theory that the books are become more and more dark, sinister, and gloomy, 
 which we can hopefully detect via sentiment analysis. We hope that this will be fun for people who are as passionate about Harry Potter as us.
+
+--- THIS WEBSITE CONTAINS MANY SPOILERS ABOUT THE HARRY POTTER UNIVERSE ---
+
 </h3>
 
 <h1>Teaser</h1>
