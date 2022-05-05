@@ -37,12 +37,11 @@ h4 {text-align: center}
 <div class="line"></div>
 
 <h3>
-This website is an exam project for the course 02467 Computational 
+This website is the final assignment in the course 02467 Computational 
 Social Science at the Technical University of Denmark (DTU) Spring 2022 Semester. 
-The project has been developed using tools, theory, and techniques taught in this course.
 <br/>
 
-All group members are hard-core Harry Potter fans. We therefore saw this as the perfect opportunity to put all of our Harry Potter fun facts to use. Our main dataset consists of Harry Potter book summaries at chapter-level. 
+All three team members are hard-core Harry Potter fans. We therefore saw this as the perfect opportunity to put all of our Harry Potter fun facts to use. Our main dataset consists of Harry Potter book summaries at chapter-level. 
 Furthermore, we have used a dataset that contain character information to make it easy to identify characters in the summaries. 
 We chose our main dataset based on the fact that we wanted to look at the Harry Potter books, which are much more extensive compared to the movies, 
 but were not able to use the books directly due to copyrights. Fandom (previously known as Wikia) is a service that hosts wikis mainly on entertainment (i.e. books, movies, and tv shows). 
@@ -73,5 +72,14 @@ which we can hopefully detect via sentiment analysis. We hope that this will be 
 <div class="line"></div>
 
 <h3>
-We are 3 student studying Artificial Intelligence and Data at DTU. We love Harry Potter and decided this was a project we could go at with a decent amount of domain knowledge. We hope you enjoy our findings.
+Members:
+<ul>
+  <li>Anne Sophie H. Hansen s194274</li>
+  <li>Kirstine Cort Graae s194269</li>
+  <li>Frederikke B. Christensen s194239</li>
+</ul>
+
+All three of use study Artificial Intelligence and Data at DTU. We love Harry Potter and decided this was a topic we could apply a decent amount of domain knowledge too.
+
+We hope you enjoy the world of Harry Potter data analysis.
 </h3>
