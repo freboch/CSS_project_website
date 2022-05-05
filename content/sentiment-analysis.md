@@ -9,10 +9,7 @@ Sentiment analysis uses a happiness score to assess the sentiment of a text. The
 
 We have a hypothesis that each book gets less happy as you move from beginning to end, and that the same can be said for the series as a whole. Scroll down to see what we found out.
 
-Overall Series mood
-
-
-The mood trend throughout the series
+# **Overall Series mood**
 
 First lets look at the entire series. For each chapter we compute the average happiness score and this plot shows these averages for all chapters in the series. The trend line is a linear regression. 
 
@@ -32,7 +29,7 @@ The large standard deviation is due to the plot summaries not being very long, a
 
 All that being said, the plot does show happy and unhappy chapters that we can recognize from the books. Deaths of important and good characters are some of the valleys: Cedric, Sirius, Dumbledore, Dobby, Harry (though he survives). Festive chapters like Christmases, a birthday, festivities at the Quidditch World Cup are some of the peaks. 
 
-Books
+# **Books**
 
 Looking at the book-scale instead of the series scale, and focusing only on the trend lines instead of the individual chapter scores we see that the hypothesis holds again. The books do not have the same number of chapters, so for the sake of comparison they have been normalized to a [0;1] depth in book scale.
 
