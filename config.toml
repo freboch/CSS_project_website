@@ -7,7 +7,7 @@ theme = 'theme'
 
 [params]
     authors = ["Anne Sophie H. Hansen", "Frederikke B. Christensen", "Kirstine Cort Graae"]
-    notebook = "/explainer-notebook.html"
+    notebook = "/Explainer_Notebook.html"
     data = "https://drive.google.com"
     github = "https://github.com/freboch/CSS_project_website"
     logo = '/images/favicon.png'
