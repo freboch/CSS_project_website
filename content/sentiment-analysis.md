@@ -28,7 +28,7 @@ h3 {text-align: left; font-size:15px,font-family: Verdana, sans-serif}
 <h3>
 To investigate the mood development through the series we have performed some sentiment analysis on the chapter summaries.
 
-Sentiment analysis uses a happiness score to assess the sentiment of a text. The happiness scores in this analysis are from https://hedonometer.org/words/labMT-en-v2/. The dataset consists of 10,187 words and their corresponding happiness score. We have shifted the scores from a [0;10] scale to a [-5;5] scale so that 0 means neutral.
+Sentiment analysis uses a happiness score to assess the sentiment of a text. The happiness scores in this analysis are from <a href="https://hedonometer.org/words/labMT-en-v2/">here</a>. The dataset consists of 10,187 words and their corresponding happiness score. We have shifted the scores from a [0;10] scale to a [-5;5] scale so that 0 means neutral.
 
 We have a hypothesis that each book gets less happy as you move from beginning to end, and that the same can be said for the series as a whole. Scroll down to see what we found out.
 </h3>
