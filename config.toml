@@ -8,8 +8,7 @@ theme = 'theme'
 [params]
     authors = ["Anne Sophie H. Hansen", "Frederikke B. Christensen", "Kirstine Cort Graae"]
     notebook = "/Explainer_Notebook.html"
-    data = "https://drive.google.com"
-    github = "https://github.com/freboch/CSS_project_website"
+    github = "https://gitlab.gbar.dtu.dk/freboch/Social_Informatik_Projekt.git"
     logo = '/images/favicon.png'
     [[params.nav]]
         label = "Data"

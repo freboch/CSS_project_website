@@ -3,14 +3,39 @@ title: Sentiment Analysis
 prev: word-clouds
 ---
 
+<head>
+<style>
+<style>
+h1 {text-align: left; font-size:25px,font-family: Verdana, sans-serif}
+h2 {text-align: left; font-size:20px,font-family: Verdana, sans-serif}
+h3 {text-align: left; font-size:15px,font-family: Verdana, sans-serif}
+</style>
+
+<style>
+.line {
+    padding-bottom: 20px;
+    border-bottom: 1px solid #9CA3AF; 
+}
+.line1 {
+    padding-bottom: 20px;
+    border-bottom: 3px solid #9CA3AF; 
+}
+</style>
+
+</head>
+
+<div class="line1"></div>
+<h3>
 To investigate the mood development through the series we have performed some sentiment analysis on the chapter summaries.
 
 Sentiment analysis uses a happiness score to assess the sentiment of a text. The happiness scores in this analysis are from https://hedonometer.org/words/labMT-en-v2/. The dataset consists of 10,187 words and their corresponding happiness score. We have shifted the scores from a [0;10] scale to a [-5;5] scale so that 0 means neutral.
 
 We have a hypothesis that each book gets less happy as you move from beginning to end, and that the same can be said for the series as a whole. Scroll down to see what we found out.
+</h3>
 
-# **Overall Series mood**
-
+<h2>Overall Series mood</h2>
+<div class="line1"></div>
+<h3>
 First lets look at the entire series. For each chapter we compute the average happiness score and this plot shows these averages for all chapters in the series. The trend line is a linear regression. 
 
 <img src="/images/series_happiness.png" width="700" /> 
@@ -28,8 +53,11 @@ The mean and trendline is of course still the same, but the standard deviation s
 The large standard deviation is due to the plot summaries not being very long, and there therefore not being that many scores to compute the mean over. 
 
 All that being said, the plot does show happy and unhappy chapters that we can recognize from the books. Deaths of important and good characters are some of the valleys: Cedric, Sirius, Dumbledore, Dobby, Harry (though he survives). Festive chapters like Christmases, a birthday, festivities at the Quidditch World Cup are some of the peaks. 
+</h3>
 
-# **Books**
+<h2>Books</h2>
+<div class="line1"></div>
+<h3>
 
 Looking at the book-scale instead of the series scale, and focusing only on the trend lines instead of the individual chapter scores we see that the hypothesis holds again. The books do not have the same number of chapters, so for the sake of comparison they have been normalized to a [0;1] depth in book scale.
 
@@ -42,8 +70,11 @@ These happiness scores are subject to the same standard deviations as the above.
 <img src="/images/book_happiness_trendlines_std.png" width="700" /> 
 
 With this overlay it is even more clear that the sentiment analysis falls a little short with the limited available data.
+</h3>
 
-# **Word Shifts for Select Chapters**
+<h2>Word Shifts for Select Chapters</h2>
+<div class="line1"></div>
+<h3>
 
 Now lets look closer at some of the chapters that stand out for their high or low happiness scores. We do this with word shifts like the ones they use on https://hedonometer.org/timeseries/en_all .
 
@@ -82,3 +113,5 @@ It is the day before Bill and Fleur's *wedding* and Harry's *birthday*. Harry al
 Across these chapters we see that, even though it falls short on interpreting context, the happiness scores and word-shifts still do a decent job of categorizing the chapters as more positive or negative when the good or bad thing going on is not subtle i.e. death, murder, Christmas, birthdays and weddings. 
 
 The word shifts are subject to the same challenges as the happiness score plots above; the chapter summaries that we are working with are not very long, and therefore they do not have a lot of words to go on.
+
+</h3>

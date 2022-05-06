@@ -64,8 +64,25 @@ which we can hopefully detect via sentiment analysis. We hope that this will be 
 
 <h1>Findings</h1>
 <div class="line"></div>
-
 <br>
+<h3>
+The preformed Network Analysis revealed, that the communities computed by the Louvain Partition, are not very obvious considering the plots of each book. 
+While some communities make sense, it is not the case for most of them. 
+On the other side, the unweighted graphs made during the Network Analysis, seem to detect the most important characters of each book very well.
+The unweighted graphs very clearly show the most significant characters in each book, and the results are as would be expected considering the plot lines. 
+
+Word-clouds are also made for each book, to analyze the unique and most used words for each book. 
+For the most part, the trends seen in the word-clouds are quite explainable. While it is not possible to infer the plots of the books based on the word-clouds, 
+they give an understanding of the important aspects of the books. 
+
+The sentiment analysis was used to evaluate the happiness score throughout the series. 
+This analysis showed that most chapters are written using positive loaded words. This of course, is an average and not the constant state.
+However, the happiness analysis also shows that the series gets more gloomy with each book.
+
+Word shifts for chosen chapters have also been analyzed. It was not easy to make any conclusions about the books based on the word shifts. 
+This is due to the fact, that the Harry Potter Universe uses a lot of strange words, undefined words, and common words used in a different context. 
+These words result in some interesting word shifts, to be analyzed later on. 
+</h3>
 
 <h1>The team</h1>
 
@@ -75,8 +92,8 @@ which we can hopefully detect via sentiment analysis. We hope that this will be 
 Members:
 <ul>
   <li>Anne Sophie H. Hansen s194274</li>
-  <li>Kirstine Cort Graae s194269</li>
   <li>Frederikke B. Christensen s194239</li>
+  <li>Kirstine Cort Graae s194269</li>
 </ul>
 
 All three of use study Artificial Intelligence and Data at DTU. We love Harry Potter and decided this was a topic we could apply a decent amount of domain knowledge too.
